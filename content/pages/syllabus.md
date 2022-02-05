@@ -42,11 +42,48 @@ Course Requirements and Grading
 
 _Business Model Innovation: Global Health in Frontier Markets_ is a 6-credit half-semester course that must be taken for a letter grade. Our class sessions promise to be lively and include interactions and exercises designed to build the dialog within the class and the wider community. Many of our discussions are case-based, so _preparation and participation are important_. Some cases are non-traditional in format, and include video and other content. Early on, you'll form small teams and your group will be assigned an organization or program to examine. There is no final exam. Course requirements and key deliverables fall into three categories, described below.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Individual managerial briefing assignment | 15% |
-| Class participation | 25% |
-| Mini case portfolio | 60% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual managerial briefing assignment
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mini case portfolio
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 **Individual Managerial Briefing Assignment:** Early in the course, turn in a 2–3 page memo aimed at business executives outlining the critical facts and implications for management and delivery of health care for A disease or health condition you select from our list.
 

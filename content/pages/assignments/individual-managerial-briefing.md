@@ -75,9 +75,82 @@ Student Examples: Fall 2013
 
 The following table contains examples of the managerial briefing assignment, courtesy of MIT students.
 
-| DISEASES OR MEDICAL NEEDS | EXAMPLES OF DISEASE BRIEFINGS |
-| --- | --- |
-| Maternal and neonatal health |  {{< br >}}{{< br >}} [Opportunities to Improve Maternal and Neonatal Health Care (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_maternal_4) {{< br >}}{{< br >}}  |
-| HIV/AIDS |  {{< br >}}{{< br >}} [HIV/AIDS: A Global Health Perspective (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_hiv-aids_2) {{< br >}}{{< br >}} [HIV/AIDS: Managerial Briefing (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_hiv-aids_3) {{< br >}}{{< br >}}  |
-| Tuberculosis |  {{< br >}}{{< br >}} [Tuberculosis: Managerial Briefing (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_01) {{< br >}}{{< br >}} [Tuberculosis: Biology, Burden, & Unmet Needs (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_02) {{< br >}}{{< br >}} [Tuberculosis: Disease Overview (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_03) {{< br >}}{{< br >}} [Tuberculosis: Overview (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_05) {{< br >}}{{< br >}} [Tuberculosis: Global Health Needs (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_09) {{< br >}}{{< br >}}  |
-| Another disease or condition |  {{< br >}}{{< br >}} [Atrial Fibrillation: A major global public health challenge (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_af_1) {{< br >}}{{< br >}} [Viral Hepatitis: The Silent Epidemic (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_vrl-hep_1) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DISEASES OR MEDICAL NEEDS
+{{< thclose >}}
+{{< thopen >}}
+EXAMPLES OF DISEASE BRIEFINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Maternal and neonatal health
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Opportunities to Improve Maternal and Neonatal Health Care (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_maternal_4)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+HIV/AIDS
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[HIV/AIDS: A Global Health Perspective (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_hiv-aids_2)
+
+[HIV/AIDS: Managerial Briefing (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_hiv-aids_3)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tuberculosis
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Tuberculosis: Managerial Briefing (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_01)
+
+[Tuberculosis: Biology, Burden, & Unmet Needs (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_02)
+
+[Tuberculosis: Disease Overview (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_03)
+
+[Tuberculosis: Overview (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_05)
+
+[Tuberculosis: Global Health Needs (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_09)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Another disease or condition
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Atrial Fibrillation: A major global public health challenge (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_af_1)
+
+[Viral Hepatitis: The Silent Epidemic (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_vrl-hep_1)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
