@@ -178,7 +178,7 @@ Kim, Jim Yong, Paul Farmer, et al. "[Redefining Global Health-Care Delivery](htt
 
 Sgaier, Sema K, et al. "[How the Avahan HIV Prevention Program Transitioned from the Gates Foundation to the Government of India](https://www.healthaffairs.org/doi/10.1377/hlthaff.2012.0646)." _Health Affairs 32_, no. 7 (2013): 1265–73.
 
-Rhatigan, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Applying the Care Delivery Value Chain: HIV/AIDS Care in Resource Poor Settings." (PDF)](http://www.hbs.edu/faculty/Publication%20Files/09-093.pdf) HBS Working Paper no. 09–093, 2009.
+Rhatigan, et al. ["Applying the Care Delivery Value Chain: HIV/AIDS Care in Resource Poor Settings." (PDF)](http://www.hbs.edu/faculty/Publication%20Files/09-093.pdf) HBS Working Paper no. 09–093, 2009.
 
 
 {{< tdclose >}}
@@ -204,13 +204,13 @@ Prepare readings.
 
 ### Required Reading
 
-Porter, M. E. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["What is Value in Health Care?" (PDF)](http://www.nejm.org/doi/pdf/10.1056/NEJMp1011024) _New England Journal of Medicine_ 363 (2010): 2477–81.
+Porter, M. E. ["What is Value in Health Care?" (PDF)](http://www.nejm.org/doi/pdf/10.1056/NEJMp1011024) _New England Journal of Medicine_ 363 (2010): 2477–81.
 
 ### Optional Readings
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Supplementary Appendix 1 (PDF)](http://www.nejm.org/doi/suppl/10.1056/NEJMp1011024/suppl_file/nejmp1011024_appendix1.pdf)
+[Supplementary Appendix 1 (PDF)](http://www.nejm.org/doi/suppl/10.1056/NEJMp1011024/suppl_file/nejmp1011024_appendix1.pdf)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Supplementary Appendix 2 (PDF)](http://www.nejm.org/doi/suppl/10.1056/NEJMp1011024/suppl_file/nejmp1011024_appendix2.pdf) to Porter, M. E. "[What is Value in Health Care?](http://www.nejm.org/doi/full/10.1056/NEJMp1011024)" _New England Journal of Medicine_ 363 (2010): 2477–81.
+[Supplementary Appendix 2 (PDF)](http://www.nejm.org/doi/suppl/10.1056/NEJMp1011024/suppl_file/nejmp1011024_appendix2.pdf) to Porter, M. E. "[What is Value in Health Care?](http://www.nejm.org/doi/full/10.1056/NEJMp1011024)" _New England Journal of Medicine_ 363 (2010): 2477–81.
 
 Sastry, Anjali. "[Pathways and Chains: Strategy and Process Mapping for Healthcare Delivery](http://globalhealth.mit.edu/value-chain/ )." February 23, 2011. _globalhealth at MIT_ (blog).
 
@@ -236,7 +236,7 @@ Case discussion: SMS for Life
 
 ### Case
 
-Moncef, Anna, and Donald A. Marchand. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["SMS for Life (A): A Public-private Collaboration to Prevent Stock-outs of Life-saving Malaria Drugs in Africa." (PDF)](http://malaria.novartis.com/downloads/case-studies/imd-sms-for-life-a.pdf) IMD-3–2168, 2012.
+Moncef, Anna, and Donald A. Marchand. ["SMS for Life (A): A Public-private Collaboration to Prevent Stock-outs of Life-saving Malaria Drugs in Africa." (PDF)](http://malaria.novartis.com/downloads/case-studies/imd-sms-for-life-a.pdf) IMD-3–2168, 2012.
 
 Kania, John, and Mark Kramer. "[Collective Impact](http://www.ssireview.org/articles/entry/collective_impact )." _Stanford Social Innovation Review_, Winter 2011.
 
@@ -246,7 +246,7 @@ Gupta, Anil K. "[Tapping the Entrepreneurial Potential of Grassroots Innovation]
 
 ### Optional Readings
 
-Hanleybrown, Fay, John Kania, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Channeling Change: Making Collective Impact Work." (PDF)](http://www.ssireview.org/pdf/Channeling_Change_PDF.pdf) _Stanford Social Innovation Review_, January 2012.
+Hanleybrown, Fay, John Kania, et al. ["Channeling Change: Making Collective Impact Work." (PDF)](http://www.ssireview.org/pdf/Channeling_Change_PDF.pdf) _Stanford Social Innovation Review_, January 2012.
 
 Sekhri, Neelam, Richard Feachem, et al. "[Public-Private Integrated Partnerships Demonstrate the Potential to Improve Health Care Access, Quality, and Efficiency](http://dx.doi.org/10.1377/hlthaff.2010.0461)." _Health Affairs_ 30, no. 8 (2011): 1498–1507.
 
@@ -327,9 +327,9 @@ Smillie, Ian. "[Learning, Development, and Money: Lessons from Bangladesh](http:
 
 Section 3 Downstream distributors and Section 4 Franchising:
 
-Pindyk, Robert S. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Lecture Notes on Vertical Structure." (PDF - 5.3MB)](http://web.mit.edu/rpindyck/www/Courses/VS_11.pdf) August 2011, pp. 21–5.
+Pindyk, Robert S. ["Lecture Notes on Vertical Structure." (PDF - 5.3MB)](http://web.mit.edu/rpindyck/www/Courses/VS_11.pdf) August 2011, pp. 21–5.
 
-Bishai, David M., et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Social Franchising to Improve Quality and Access in Private Health Care in Developing Countries." (PDF - 5.2MB)](https://pdfs.semanticscholar.org/1a4b/03b90450c87d278930f10e0f653b2b9e50b4.pdf?_ga=2.252226506.2143769902.1565032614-672817412.1563980296) _Harvard Health Policy Review_ 9, no. 1 (2008): 184–97.
+Bishai, David M., et al. ["Social Franchising to Improve Quality and Access in Private Health Care in Developing Countries." (PDF - 5.2MB)](https://pdfs.semanticscholar.org/1a4b/03b90450c87d278930f10e0f653b2b9e50b4.pdf?_ga=2.252226506.2143769902.1565032614-672817412.1563980296) _Harvard Health Policy Review_ 9, no. 1 (2008): 184–97.
 
 Spainhower, Kirsten. "[BRAC: A Laboratory for Systemic Solutions](http://dx.doi.org/10.1596/1020-797X_12_1_44)." _Development Outreach_ 12, no. 1 (2010): 44–55.
 
@@ -434,7 +434,7 @@ Read and carefully consider the following along with the executive summaries pro
 
 Govindrajan, Vijay, and Chris Trimble. "Partners in Health's Radical Model for Care: Adapting Emerging-Market Healthcare Innovations to Rich-World Populations." Harvard Business Press Chapters. April 10, 2012. Prod. # 9211BC-PDF-ENG.
 
-Onie, Rebecca, Paul Farmer, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Realigning Health with Care](http://www.ssireview.org/articles/entry/realigning_health_with_care)." _Stanford Social Innovation Review_, Summer 2012.
+Onie, Rebecca, Paul Farmer, et al. "[Realigning Health with Care](http://www.ssireview.org/articles/entry/realigning_health_with_care)." _Stanford Social Innovation Review_, Summer 2012.
 
 [Tricia Morente biography (PDF)]({{< baseurl >}}/resources/mit_15_232f13_11_tric_mor_bio)
 

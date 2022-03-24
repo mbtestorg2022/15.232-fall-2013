@@ -47,7 +47,7 @@ Create a stand-alone word document to upload. Your briefing should include:
 *   What inputs are most needed to prevent, treat, or manage this disease or condition? Identify key requirements for a patient’s care, mentioning needed services, knowledge, medication, and supplies that are essential for reducing the negative impacts of this disease or condition.
 *   To wrap up, highlight what you’ve gleaned about timing, costs, and complexity of care delivery.
 
-_List your sources_: consult the **![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[ASA style sheet (PDF)](http://www.asanet.org/documents/teaching/pdfs/Quick_Tips_for_ASA_Style.pdf)** for formatting advice. Make sure to include urls that work (click on each to check, once you’ve pasted into your document).
+_List your sources_: consult the **[ASA style sheet (PDF)](http://www.asanet.org/documents/teaching/pdfs/Quick_Tips_for_ASA_Style.pdf)** for formatting advice. Make sure to include urls that work (click on each to check, once you’ve pasted into your document).
 
 Limit your entire document (excluding references) to _two pages_. Single-spaced text and narrow margins are fine.
 
