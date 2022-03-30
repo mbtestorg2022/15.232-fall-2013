@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Rows of benches in a waiting room of a community clinic, women and children
     sit and watch television.
+parent_uid: 3296b023-4342-68b4-2cad-c8eab5a26f9f
 resourcetype: Image
 title: teaching_shining-hope9.jpg
 uid: 6aaa1524-8f10-2bdb-89c0-957257c11879

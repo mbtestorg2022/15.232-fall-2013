@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding franchise models.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/4e39fdc265dc3a0e04521e205f0b24c4_MIT15_232F13_Class8.pdf
 file_type: application/pdf
+parent_uid: c1497bcd-a2f0-d686-0f61-27a7bceffff7
 resourcetype: Document
 title: 'Class 8: Franchise models'
 uid: 4e39fdc2-65dc-3a0e-0452-1e205f0b24c4

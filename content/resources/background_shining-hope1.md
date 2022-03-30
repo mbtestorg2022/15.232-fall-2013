@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Steps lead up to the entrance of a community health clinic in Kibera,
     a corrugated metal building painted bright blue.
+parent_uid: e6e427dc-aca8-8e23-0c62-3f20a1589c66
 resourcetype: Image
 title: background_shining-hope1.jpg
 uid: e37d1c74-e25c-bd61-a903-8ca091085c9f

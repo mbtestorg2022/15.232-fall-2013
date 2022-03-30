@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: A team of doctors wearing scrubs and masks operate on a small child.
+parent_uid: 771d2998-6349-db27-afe7-73ca9183a26e
 resourcetype: Image
 title: impact_smile-train-camp.jpg
 uid: 5e97872f-59ce-d603-18bb-27882b970ca1

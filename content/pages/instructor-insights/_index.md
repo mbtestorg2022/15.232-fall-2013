@@ -23,7 +23,7 @@ Students learn what works, what doesn’t, and why, in ambitious startups and le
 
 ### Possibilities for Further Study/Careers
 
-Some students go on to participate in [_15.S07 GlobalHealth Lab_](/courses/15-s07-globalhealth-lab-spring-2013/) (now known as _15.233_), independent studies or theses to continue projects started in _15.232_, and some even start new enterprises or change career paths to incorporate opportunities they have learned about in global health.
+Some students go on to participate in [_15.S07 GlobalHealth Lab_](/courses/15-s07-globalhealth-lab-spring-2013) (now known as _15.233_), independent studies or theses to continue projects started in _15.232_, and some even start new enterprises or change career paths to incorporate opportunities they have learned about in global health.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
